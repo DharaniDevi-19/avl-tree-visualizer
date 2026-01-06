@@ -1,0 +1,17 @@
+{
+  "name": "avl-tree-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "avl.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "vite": "^7.3.0"
+  }
+}
